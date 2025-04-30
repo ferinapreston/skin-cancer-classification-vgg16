@@ -28,3 +28,9 @@ The dataset contains thousands of images of benign and malignant skin lesions. I
 
 📦 **Due to file size, the dataset is not included in this repository.**  
 👉 [Download Dataset from Kaggle]https://www.kaggle.com/datasets/ferrypreston/skin-cancer-dataset-benign-and-malignant/data
+
+---
+
+## 🔗 Live Notebook
+View the full working notebook on [Kaggle here](https://www.kaggle.com/code/ferrypreston/skin-cancer-classification-using-vgg16)
+
